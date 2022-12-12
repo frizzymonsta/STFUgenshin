@@ -11,7 +11,7 @@ Installation
 ---
 
 ```shell
-(venv)  Admin@DESKTOP S:\....\shutupgenshin  pip install -r requirements.txt
+(venv) Admin@DESKTOP S:\...\shutupgenshin  pip install -r requirements.txt
 ```
 
 Launch
@@ -20,7 +20,7 @@ Launch
 Launch the console with administrator rights, cd in script directory and just launch.
 
 ```shell
-(venv)  Admin@DESKTOP S:\....\shutupgenshin  python shutupgenshin.py
+(venv) Admin@DESKTOP S:\...\shutupgenshin  python shutupgenshin.py
 
 [INIT] STFUgenshin started.
 [INFO] Dont forget to configure resolution in settings.json.
