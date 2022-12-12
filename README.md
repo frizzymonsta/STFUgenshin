@@ -1,4 +1,4 @@
-SHUTUP genshin
+SHUT UP genshin
 ===
 
 ![emergency_food](img/1743d764b8439f6f2a941ce34d8be254.jpg)
