@@ -4,7 +4,8 @@ SHUT UP genshin
 ![emergency_food](img/1743d764b8439f6f2a941ce34d8be254.jpg)
 
 A simple script to skip annoying dialogues in Genshin Impact. Press hotkey and it works.
-[stfugen.webm](https://user-images.githubusercontent.com/59962728/207316128-b0fdd3f2-ccc1-42aa-afc0-e067d3dd89ae.webm)
+
+![stfugen.webm](https://user-images.githubusercontent.com/59962728/207316128-b0fdd3f2-ccc1-42aa-afc0-e067d3dd89ae.webm)
 
 ---
 
